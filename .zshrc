@@ -1,4 +1,4 @@
-export ZSH="/Users/ytalorodrigues/.oh-my-zsh"
+export ZSH="$HOME/.oh-my-zsh"
 
 # Display red dots while waiting for completion
 COMPLETION_WAITING_DOTS="true"
